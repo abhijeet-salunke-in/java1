@@ -4,6 +4,6 @@
 </head>
 <body>
 <h1 style="font-size:50px;">Hello this is Java1 using pipeline</h1>
-<h2 style="color:red;">Nexus 2.0.0 version lived...</h2>
+<h2 style="color:red;">Nexus 3.0.0 version lived...</h2>
 </body>
 </html>
